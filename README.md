@@ -13,3 +13,10 @@ Current progress:
 
 Goal:
 Create immersive AI-driven narrative NPCs with memory and personality.
+
+Server:
+Run Python FastAPI server:
+
+cd server
+pip install -r requirements.txt
+uvicorn main:app --reload
