@@ -1,0 +1,13 @@
+{
+  "location": "Riverside Market",
+  "time": "Late afternoon",
+  "events": [
+    "The chosen one has gone missing for 3 days",
+    "Town guards doubled patrols",
+    "Food prices increased"
+  ],
+  "player_context": {
+    "player_name": "Arin",
+    "recent_actions": ["asked about supplies", "mentioned heading north"]
+  }
+}
