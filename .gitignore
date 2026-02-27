@@ -1,24 +1,32 @@
+# Unreal Engine
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 .vs/
-
+.vscode/
 *.VC.db
-*.VC.opendb
-*.suo
+*.sln
+*.xcodeproj
 *.opensdf
 *.sdf
+*.suo
+*.user
+*.userprefs
 *.log
 
-*.uproject.user
-*.opensdf
-*.opendb
+# Build artifacts
+Build/
+*.pdb
+*.obj
+*.dll
+*.exe
+*.lib
+*.exp
 
-Backup/
-
-Plugins/*/Intermediate/
-Plugins/*/Binaries/
-
+# OS junk
 .DS_Store
 Thumbs.db
+
+# If you use Rider/JetBrains
+.idea/
