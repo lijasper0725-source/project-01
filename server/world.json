@@ -1,0 +1,16 @@
+{
+  "location": "Red Rock Terminus - A chaotic, lawless border town where a new gold vein was just discovered.",
+  "time": "Late at night, a heavy rainstorm is raging outside.",
+  "events": [
+    "The old town sheriff was found dead in the desert yesterday; the town is currently in a state of anarchy.",
+    "An unmarked, black-armored train just pulled into the station, and no one knows what is inside.",
+    "Strange, muffled knocking sounds have recently been echoing from the saloon's basement."
+  ],
+  "player_context": {
+    "player_name": "The Drifter",
+    "recent_actions": [
+      "Just pushed open the saloon's swinging doors.",
+      "Carrying a strong scent of gunpowder and dried blood."
+    ]
+  }
+}
